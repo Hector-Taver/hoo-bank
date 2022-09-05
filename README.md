@@ -4,7 +4,7 @@
 
 
 ## About the project
-HooBank is a modern UI/UX website made with React.js & Tailwind CSS during a follow along video by JavaScript Mastery.
+HooBank is a modern UI/UX website made with ReactJS & Tailwind CSS during a follow along video by JavaScript Mastery.
 
 ## How to run this project
 In the project directory, you can run:
