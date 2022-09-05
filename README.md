@@ -6,7 +6,7 @@
 ## About the project
 HooBank is a modern UI/UX website made with ReactJS & Tailwind CSS during a follow along video by JavaScript Mastery.
 
-## How to run this project
+## How to run this application
 In the project directory, you can run:
 ### `npm install`
 to install all the dependencies of the project.
